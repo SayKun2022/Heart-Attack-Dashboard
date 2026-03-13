@@ -52,4 +52,4 @@ Data-Driven Healthcare Analysis:-Healthcare professionals and analysts can use v
 Public Health Insights:-The dashboard can support awareness programs by identifying key risk indicators within populations.
 
 **6. Snapshots**
-
+https://github.com/SayKun2022/Heart-Attack-Dashboard/blob/main/SnapShot%20Of%20The%20Dashboard.png
