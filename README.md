@@ -35,26 +35,36 @@ Clinical Metrics: Systolic/Diastolic BP, Triglycerides, SpO2 levels.
 Cardiovascular disease is no longer exclusive to older populations. In India, heart attacks among youth are rising, yet raw medical data is often too complex for quick public health intervention. Analysts need a way to pinpoint which lifestyle "cocktail" (e.g., high screen time + occasional smoking) correlates most strongly with heart attack likelihood.
 
 *Goal of the Dashboard:-*
+
 -Correlate Habits: Map the direct impact of smoking, alcohol, and inactivity on heart health.
+
 -Clinical Benchmarking: Establish "Average Risk Profiles" based on Blood Pressure and SpO2 levels.
+
 -Demographic Targeting: Identify if specific regions.
 
 *Walkthrough of Key Visuals:-*
+
 -Executive KPI Header: Displays critical population averages:
+
 -Total Patients: 10K | Avg Age: 26.6 | Avg Triglycerides: 275.01 mg/dL.
+
 -Risk vs. Habits (Stacked Bar Charts): A side-by-side comparison of Smoking Status and Alcohol Consumption against Heart Attack Likelihood.
+
 -Activity & Screen Time Analysis: A dual-axis visualization exploring the "Sedentary Trap"—linking high daily screen time and low physical activity to cardiac risk.
+
 -Geographic & Socioeconomic Heatmap: A breakdown of risk distribution across Urban vs. Rural settings and different income levels.
+
 -Clinical Vital Distribution: Bar charts analyzing blood pressure (Systolic/Diastolic) ranges to identify the most common hypertensive groups.
 
 *Business Impact & Insights:-*
-Healthcare Awareness:-The dashboard helps highlight lifestyle factors that may influence heart health.
 
-Risk Pattern Identification:-Researchers can observe patterns related to sedentary lifestyle, smoking habits, and demographic differences.
+-Healthcare Awareness:-The dashboard helps highlight lifestyle factors that may influence heart health.
 
-Data-Driven Healthcare Analysis:-Healthcare professionals and analysts can use visual analytics to better understand patient data.
+-Risk Pattern Identification:-Researchers can observe patterns related to sedentary lifestyle, smoking habits, and demographic differences.
 
-Public Health Insights:-The dashboard can support awareness programs by identifying key risk indicators within populations.
+-Data-Driven Healthcare Analysis:-Healthcare professionals and analysts can use visual analytics to better understand patient data.
+
+-Public Health Insights:-The dashboard can support awareness programs by identifying key risk indicators within populations.
 
 **6. Snapshots**
 
