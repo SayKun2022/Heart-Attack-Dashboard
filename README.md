@@ -23,7 +23,7 @@ The dashboard was architected using the following industry-standard tools:
 
 Source: Kaggle – Heart Attack in Youth of India Dataset
 
-Key Variables: * Demographics: Age, Gender, Region, Socioeconomic Status.
+Key Variables: Demographics: Age, Gender, Region, Socioeconomic Status.
 
 Lifestyle: Smoking Status, Alcohol Consumption, Physical Activity, Screen Time.
 
