@@ -11,8 +11,11 @@ The Heart Attack Risk Analysis Dashboard is an interactive Power BI report built
 
 The dashboard was architected using the following industry-standard tools:
 📊 Power BI Desktop – Lead platform for report design and interactive canvas development.
+
 📂 Power Query – Utilized for ETL (Extract, Transform, Load) processes, ensuring data integrity and normalization.
+
 🔗 Data Modeling – Implemented a star schema/relational model to enable seamless cross-filtering across demographic and lifestyle dimensions.
+
 📁 File Formats – .pbix (Source File), .csv (Dataset), and .png for dashboard previews.
 
 **4. Data Source**
